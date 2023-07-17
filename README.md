@@ -17,13 +17,8 @@
 
 - 📫 How to reach me **Mohit6k9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohit-singh-3225531ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-singh-3225531ab" height="30" width="40" /></a>
-<a href="https://instagram.com/mohitt_069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohitt_069" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mohitw3original" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohitw3original" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohit069"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohit069" /></a></p><br><br>
+
 
