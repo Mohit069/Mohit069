@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Projects<br>👯 I’m currently pursuing Master's from Xavier Institute of Management and Informatics<br>🤝 I’m looking to collaborate on React or some other Frontend Technology<br>🌱 I’m looking for Internship on Spring Boot with React.js<br>💬 I regularly make Web Stories https://tecyfi.com/web-stories<br>⚡ Ask me about Java, React, JavaScript<br>📫 Reach me Mohit6k9@gmail.com
+🔭 I’m currently working on Java Projects<br>🤝 I’m looking to collaborate on MERN Projects<br>💬 I regularly make Web Stories https://tecyfi.com/web-stories<br>⚡ Ask me about Java, Node, MongoDB, Express.js, React, JavaScript<br>📫 Reach me Mohit6k9@gmail.com
 
 <img align="right" src="https://www.fightersgeneration.com/news2022/char2/rocket-raccoon-smile-gif.gif" alt="Programmer" width="350" height="200">
 
